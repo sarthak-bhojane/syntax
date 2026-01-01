@@ -1,0 +1,22 @@
+{
+  "name": "syntax",
+  "version": "1.0.0",
+  "description": "npm package that helps peoples without writing code manually.",
+  "main": "syntax.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak-bhojane/syntax.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sarthak Rajendrarao Bhojane",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sarthak-bhojane/syntax/issues"
+  },
+  "homepage": "https://github.com/sarthak-bhojane/syntax#readme"
+}
