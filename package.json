@@ -1,8 +1,8 @@
 {
   "name": "syntax-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package that helps peoples without writing code manually.",
-   "bin": {
+  "bin": {
     "syntax": "./syntax.js"
   },
   "main": "syntax.js",
