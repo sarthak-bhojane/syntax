@@ -1,6 +1,6 @@
 {
   "name": "@sarthak-bhojane/syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm package that helps peoples without writing code manually.",
   "main": "syntax.js",
   "scripts": {
