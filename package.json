@@ -1,7 +1,10 @@
 {
-  "name": "@sarthakbhojane/syntax",
+  "name": "syntax-express",
   "version": "1.0.1",
   "description": "npm package that helps peoples without writing code manually.",
+   "bin": {
+    "syntax": "./syntax.js"
+  },
   "main": "syntax.js",
   "scripts": {
     "test": "npm run test"
@@ -11,7 +14,14 @@
     "url": "git+https://github.com/sarthak-bhojane/syntax.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "cli",
+    "express",
+    "express-generator",
+    "node",
+    "backend",
+    "boilerplate",
+    "scaffold"
   ],
   "author": "Sarthak Rajendrarao Bhojane",
   "license": "Apache-2.0",
