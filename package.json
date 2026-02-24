@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "description": "npm package that helps peoples without writing code manually.",
   "bin": {
-    "syntax": "./syntax.js"
+    "syntax-express": "./syntax.js"
   },
   "main": "syntax.js",
   "scripts": {
